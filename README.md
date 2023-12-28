@@ -4,10 +4,10 @@
 
 ## The Team
 **Team Members:**
+- **Group Leader:** Brittney Oeur
 - Alon Levy
 - Jasmine Losovsky
 - Jocelyn Velazquez
-- Brittney Oeur
 - Vincent Tran
 
 ## Problem Statement
