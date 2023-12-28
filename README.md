@@ -1,4 +1,4 @@
-# INFO 200 Intellectual Foundations of Informatics Final
+# INFO 200: Intellectual Foundations of Informatics (FINAL)
 ![screencapture-britoeur-editorx-io-uwevents-2023-12-15-15_55_13](https://github.com/BrittneyOeur/INFO200_Final/assets/72583051/bb41ff63-c0dc-4119-9966-cd9a2ea70482)
 **Website Link:** [UWEvents](https://britoeur.editorx.io/uwevents)
 
