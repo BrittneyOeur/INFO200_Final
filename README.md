@@ -4,11 +4,11 @@
 
 ## The Team
 **Team Members:**
-- **Group Leader:** Brittney Oeur
-- Alon Levy
-- Jasmine Losovsky
-- Jocelyn Velazquez
-- Vincent Tran
+- **Group Leader:** Brittney Oeur (Lead Design)
+- Alon Levy (Research)
+- Jasmine Losovsky (Research)
+- Jocelyn Velazquez (Research)
+- Vincent Tran (Research)
 
 ## Problem Statement
 The team’s primary focus is to address a challenge within the University of Washington (UW) student community. The problem that will be investigated and addressed is the inadequate and disorganized information regarding the scheduling and locations of various events taking place on the UW campus. This includes club meetings, career fair events, and any other university-related gatherings.
