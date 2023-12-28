@@ -77,3 +77,22 @@ Choosing these colors consistent with the University of Washington (UW) for this
 ![Landing_Page_Annotations (7)](https://github.com/BrittneyOeur/INFO200_Final/assets/72583051/4d35b782-2472-44e0-b1e1-fe2413f6ff50)
 ![Landing_Page_Annotations (8)](https://github.com/BrittneyOeur/INFO200_Final/assets/72583051/4b3b657c-8925-4210-8976-5d6f472e2a14)
 
+## References 
+- Art. (n.d.). Reddit - Dive into anything. https://www.reddit.com/r/udub/comments/791e5s/unofficial_improved_uw_rso_directory/?onetap_auto=true
+- Balsamiq. Rapid, effective and fun wireframing software | Balsamiq. (n.d.). https://balsamiq.com/
+- Cakir, A. (2023, October 27). User Persona template and Examples | Xtensio. Xtensio. https://xtensio.com/user-persona-template/
+- Canva. (n.d.). Canva. https://www.canva.com/
+- Canvas Login. (n.d.). https://canvas.uw.edu/
+- Colors. (n.d.). UW Brand. https://www.washington.edu/brand/graphic-elements/primary-color-palette/
+- Events | Handshake. (n.d.). Handshake. https://uw.joinhandshake.com/stu/events?collection=ALL&eventFormat=HYBRID&sort=RELEVANCE&date=ALL
+- Google. (n.d.). https://www.google.com/
+- Groups and activities. (n.d.). Student Life. https://www.washington.edu/studentlife/groups-activities/
+- How to conduct user interviews. (2023, December 12). The Interaction Design Foundation. https://www.interaction-design.org/literature/article/how-to-conduct-user-interviews
+- Maps and campus history. (n.d.). UW Sustainability. https://sustainability.uw.edu/maps/
+- Registered Student Organizations UW (RSOS). (n.d.). Huskylink. https://huskylink.washington.edu/
+- Roscoe, J. (2022, September 20). Opinion: Handshake is not letting NYU students shake any hands - Washington Square News. Washington Square News. https://nyunews.com/opinion/2022/09/20/nyu-students-should-abandon-handshake/
+- Schlosser, K. (2022, October 28). Inside the Univ. of Washington’s new greenhouse, where a tech upgrade keeps the 6,000 plants happy. GeekWire. https://www.geekwire.com/2022/inside-the-univ-of-washingtons-new-greenhouse-where-a-tech-upgrade-keeps-the-6000-plants-happy/
+- Typography. (n.d.). UW Brand. https://www.washington.edu/brand/graphic-elements/font-download/
+- UW Campus Map. (n.d.). Campus Maps. https://www.washington.edu/maps/#
+- UW Events - Google Search. (n.d.). https://rb.gy/nvbc5
+
